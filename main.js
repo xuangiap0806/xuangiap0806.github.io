@@ -34,7 +34,7 @@ var audioGameOver = new Audio('gameover.mp3');
 var audioPlay = new Audio('playsong.mp3');
 var audioStart = new Audio('startsong.mp3');
 var audioFocus = new Audio('Focus.mp3');
-var audioYeah = new Audio('Yeah.mp3');
+var audioYeah = new Audio('yeah.mp3');
 
 
 /*meme*/
