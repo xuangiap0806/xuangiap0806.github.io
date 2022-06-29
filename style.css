@@ -1,0 +1,28 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.container_game{
+    background-color: rgb(87, 236, 87);
+    padding: 10px;
+}
+.canvas{
+    display: flex;
+    margin: auto;
+}
+.heading_game{
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    color: rgb(1, 97, 100);
+    background-color: rgb(17, 204, 195);
+    border-bottom: 10px;
+    border-style: solid;
+    border-color: rgb(87, 236, 87);
+    border-radius: 10px;
+    text-align: center;
+}
